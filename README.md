@@ -5,4 +5,6 @@ Let's say you have a triangle with known lengths for all three sides, and you wa
 
 I used his formula called [Heron's formula](https://en.wikipedia.org/wiki/Heron%27s_formula).
 
-Enter the lengths, and the program will calculate the area of any triangle for you.
+Enter the lengths, and the program will calculate the area of any triangle for you. 
+
+Additionally, beyond what was required in the assignment, I added an extra feature that checks if the input values can form a triangle based on geometric rules and alerts you if they cannot.
